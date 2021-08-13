@@ -16,7 +16,7 @@ const GifExpertApp = () => {
                 }
             </ol>
         </>
-     );
+    );
 }
  
 export default GifExpertApp;
